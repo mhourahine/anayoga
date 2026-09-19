@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in <b>/var/www/html/thumb.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): '/var/www/html/product_imgs/tropicalbreezeCU.jpg' is not a valid JPEG file in <b>/var/www/html/thumb.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 2 to be resource, boolean given in <b>/var/www/html/thumb.php</b> on line <b>10</b><br />
+An error has occured creating image.

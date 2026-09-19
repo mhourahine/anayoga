@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "admin"
+
+
+
+require valid-user
+AuthUserFile "/etc/apache2/anayoga-admin.htpasswd"

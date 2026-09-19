@@ -1,0 +1,88 @@
+body {
+background: #FFFFFF;
+color: #000000;
+margin-left: 0%;
+margin-right: 5%;
+font-style: normal;
+font-family: tahoma,arial,serif;
+}
+
+h1 {
+font-style: normal;
+padding-left: 3px;
+padding-right: 3px;
+padding-top: 10px;
+padding-bottom: 3px;
+color: #377819;
+text-align: left;
+font-weight: bold;
+font-family: "Monotype Corsiva", "Times New Roman";
+font-size: 20pt; 
+border: #D9D73A solid;
+border-width: 0px 0px 2px
+}
+
+h2 {
+font-size: medium;
+}    
+
+ul, dl, p, td, th, li, dt, dd, div{
+color: #000000;
+font-style: normal;
+line-height: 110%;
+font-family: tahoma, sans-serif;
+font-size: 10pt;
+}
+
+img {
+	border: 0;
+}
+
+ul li {
+list-style: square;
+}
+
+ol li {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+a:link, a:visited {
+color: #377819;
+}
+
+a:hover, a:active {
+color: #999999;
+}
+
+hr {
+color: #D9D73A;
+background: #000000;
+height: 2px;
+; line-height: 2px
+}
+
+pre, tt {
+font-family: courier, monospace;
+font-style: normal;
+}
+
+.prodtable {
+	border: 1px solid #D9D73A;	
+}
+
+.prodcell {
+	border: 1px solid #D9D73A;
+}
+
+.controls {
+    color: #000000;
+    font-family: arial;
+    background-color: #BD9C52;
+}    
+
+.anayoga {
+    color: #377819;
+    font-family: "Monotype Corsiva", "Times New Roman";
+    font-size: 13pt;
+}
